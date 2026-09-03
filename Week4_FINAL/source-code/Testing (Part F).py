@@ -109,7 +109,7 @@
 
 # ----- VERIFYING BLANK NAME USING AI-GENERATED CODE -----:
 
-appointments = []
+# appointments = []
 
 # Function to add an appointment
 # def book_appointment(patient_name, practitioner_name, appointment_time):
