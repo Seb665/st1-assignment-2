@@ -1,4 +1,7 @@
 from enum import Enum
+from patient_practitioner import Patient, Practitioner # this single linewas manually added so Appointment
+# can use the Patient and Practitioner classes stored in the separate patient_practitioner.py file.
+# It also makes part_f file much easier to test.
 
 
 class AppointmentStatus(Enum):
